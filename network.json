@@ -1,0 +1,55 @@
+{
+  "nearbyLocations": [
+    {
+      "name": "Hastings",
+      "domain": "sellmyhousefasthastings.co.uk",
+      "region": "South Coast",
+      "anchor": "Hastings House Buyers",
+      "distance": "nearby"
+    },
+    {
+      "name": "Brighton",
+      "domain": "sellmyhousefastbrighton.co.uk",
+      "region": "South Coast",
+      "anchor": "Quick House Sale Brighton",
+      "distance": "nearby"
+    },
+    {
+      "name": "Worthing",
+      "domain": "sellmyhousefastworthing.co.uk",
+      "region": "South Coast",
+      "anchor": "Sell House Fast Worthing",
+      "distance": "nearby"
+    },
+    {
+      "name": "Chichester",
+      "domain": "sellmyhousefastchichester.co.uk",
+      "region": "South Coast",
+      "anchor": "We Buy Houses Chichester",
+      "distance": "nearby"
+    },
+    {
+      "name": "Portsmouth",
+      "domain": "sellmyhousefastportsmouth.co.uk",
+      "region": "South Coast",
+      "anchor": "Fast Property Sale Portsmouth",
+      "distance": "nearby"
+    }
+  ],
+  "regionalLocations": [
+    {
+      "name": "Crawley",
+      "domain": "sellmyhousefastcrawley.co.uk",
+      "region": "South East",
+      "anchor": "Sell Your House Fast Crawley",
+      "distance": "regional"
+    },
+    {
+      "name": "Merton",
+      "domain": "sellmyhousefastmerton.co.uk",
+      "region": "London",
+      "anchor": "Sell My House Fast in Merton",
+      "distance": "regional"
+    }
+  ]
+}

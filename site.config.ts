@@ -70,6 +70,7 @@ const siteConfig: SiteConfig = {
       "testimonials",
       "stats",
       "areas",
+      "nearby-locations",
       "faq",
       "cta"
     ]
@@ -150,6 +151,9 @@ const siteConfig: SiteConfig = {
     "defaultTitle": "Sell My House Fast in Eastbourne | Cash House Buyers | Sell My House Fast",
     "defaultDescription": "Need to sell my house fast in Eastbourne? Get a guaranteed cash offer within 24 hours. No fees, no chains, complete in 7-14 days. Call 0800 012 1102 today!",
     "ogImage": "/images/og-default.jpg"
+  },
+  "analytics": {
+    "ga4MeasurementId": "G-SOUTH001"
   }
 };
 

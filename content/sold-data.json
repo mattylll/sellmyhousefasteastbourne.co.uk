@@ -1,0 +1,436 @@
+{
+  "lastUpdated": "2026-05-16",
+  "source": "HM Land Registry Price Paid Data",
+  "sourceUrl": "https://www.gov.uk/government/statistical-data-sets/price-paid-data-downloads",
+  "license": "Open Government Licence v3.0 — Contains HM Land Registry data © Crown copyright and database right",
+  "sourceFiles": [
+    "pp-2024.csv",
+    "pp-2025.csv",
+    "pp-2026.csv"
+  ],
+  "dateRange": {
+    "from": "2024-01-02",
+    "to": "2026-03-25"
+  },
+  "filters": {
+    "districts": [
+      "EASTBOURNE"
+    ],
+    "townCity": null,
+    "postcodes": null
+  },
+  "count": 3751,
+  "averagePrice": 341779,
+  "medianPrice": 275000,
+  "minPrice": 1428,
+  "maxPrice": 29640000,
+  "byPropertyType": {
+    "Detached": {
+      "count": 541,
+      "averagePrice": 506142,
+      "medianPrice": 425000
+    },
+    "Semi-Detached": {
+      "count": 592,
+      "averagePrice": 348648,
+      "medianPrice": 320000
+    },
+    "Terraced": {
+      "count": 1013,
+      "averagePrice": 299763,
+      "medianPrice": 277500
+    },
+    "Flat": {
+      "count": 1423,
+      "averagePrice": 213762,
+      "medianPrice": 190000
+    },
+    "Other": {
+      "count": 182,
+      "averagePrice": 1065652,
+      "medianPrice": 302500
+    }
+  },
+  "byMonth": [
+    {
+      "month": "2024-01",
+      "count": 97,
+      "averagePrice": 298172,
+      "medianPrice": 260000
+    },
+    {
+      "month": "2024-02",
+      "count": 121,
+      "averagePrice": 306310,
+      "medianPrice": 270000
+    },
+    {
+      "month": "2024-03",
+      "count": 144,
+      "averagePrice": 722883,
+      "medianPrice": 275000
+    },
+    {
+      "month": "2024-04",
+      "count": 125,
+      "averagePrice": 363567,
+      "medianPrice": 265000
+    },
+    {
+      "month": "2024-05",
+      "count": 157,
+      "averagePrice": 322105,
+      "medianPrice": 290000
+    },
+    {
+      "month": "2024-06",
+      "count": 150,
+      "averagePrice": 311944,
+      "medianPrice": 273500
+    },
+    {
+      "month": "2024-07",
+      "count": 158,
+      "averagePrice": 367107,
+      "medianPrice": 270000
+    },
+    {
+      "month": "2024-08",
+      "count": 192,
+      "averagePrice": 304949,
+      "medianPrice": 280000
+    },
+    {
+      "month": "2024-09",
+      "count": 166,
+      "averagePrice": 322822,
+      "medianPrice": 300000
+    },
+    {
+      "month": "2024-10",
+      "count": 228,
+      "averagePrice": 486504,
+      "medianPrice": 275500
+    },
+    {
+      "month": "2024-11",
+      "count": 172,
+      "averagePrice": 365605,
+      "medianPrice": 285000
+    },
+    {
+      "month": "2024-12",
+      "count": 147,
+      "averagePrice": 298148,
+      "medianPrice": 260000
+    },
+    {
+      "month": "2025-01",
+      "count": 148,
+      "averagePrice": 327229,
+      "medianPrice": 293000
+    },
+    {
+      "month": "2025-02",
+      "count": 153,
+      "averagePrice": 284085,
+      "medianPrice": 270000
+    },
+    {
+      "month": "2025-03",
+      "count": 263,
+      "averagePrice": 318762,
+      "medianPrice": 279000
+    },
+    {
+      "month": "2025-04",
+      "count": 72,
+      "averagePrice": 278011,
+      "medianPrice": 250000
+    },
+    {
+      "month": "2025-05",
+      "count": 107,
+      "averagePrice": 299088,
+      "medianPrice": 267000
+    },
+    {
+      "month": "2025-06",
+      "count": 144,
+      "averagePrice": 304858,
+      "medianPrice": 275000
+    },
+    {
+      "month": "2025-07",
+      "count": 128,
+      "averagePrice": 316169,
+      "medianPrice": 270000
+    },
+    {
+      "month": "2025-08",
+      "count": 151,
+      "averagePrice": 307406,
+      "medianPrice": 271600
+    },
+    {
+      "month": "2025-09",
+      "count": 127,
+      "averagePrice": 337690,
+      "medianPrice": 270000
+    },
+    {
+      "month": "2025-10",
+      "count": 135,
+      "averagePrice": 293087,
+      "medianPrice": 258000
+    },
+    {
+      "month": "2025-11",
+      "count": 123,
+      "averagePrice": 299916,
+      "medianPrice": 282500
+    },
+    {
+      "month": "2025-12",
+      "count": 133,
+      "averagePrice": 277956,
+      "medianPrice": 262500
+    },
+    {
+      "month": "2026-01",
+      "count": 79,
+      "averagePrice": 299694,
+      "medianPrice": 265000
+    },
+    {
+      "month": "2026-02",
+      "count": 87,
+      "averagePrice": 299008,
+      "medianPrice": 275000
+    },
+    {
+      "month": "2026-03",
+      "count": 44,
+      "averagePrice": 382101,
+      "medianPrice": 289250
+    }
+  ],
+  "recentSales": [
+    {
+      "date": "2026-03-25",
+      "price": 310000,
+      "type": "Detached",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Willingdon Park Drive",
+      "outwardCode": "BN22"
+    },
+    {
+      "date": "2026-03-25",
+      "price": 160000,
+      "type": "Flat",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Beamsley Road",
+      "outwardCode": "BN22"
+    },
+    {
+      "date": "2026-03-25",
+      "price": 115000,
+      "type": "Flat",
+      "tenure": "Leasehold",
+      "newBuild": false,
+      "street": "Lewes Road",
+      "outwardCode": "BN21"
+    },
+    {
+      "date": "2026-03-20",
+      "price": 962500,
+      "type": "Other",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Carlisle Road",
+      "outwardCode": "BN20"
+    },
+    {
+      "date": "2026-03-20",
+      "price": 650000,
+      "type": "Detached",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Kings Drive",
+      "outwardCode": "BN21"
+    },
+    {
+      "date": "2026-03-20",
+      "price": 315000,
+      "type": "Flat",
+      "tenure": "Leasehold",
+      "newBuild": false,
+      "street": "Royal Parade",
+      "outwardCode": "BN22"
+    },
+    {
+      "date": "2026-03-20",
+      "price": 275000,
+      "type": "Terraced",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Kilpatrick Close",
+      "outwardCode": "BN23"
+    },
+    {
+      "date": "2026-03-13",
+      "price": 345000,
+      "type": "Terraced",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Santa Cruz Drive",
+      "outwardCode": "BN23"
+    },
+    {
+      "date": "2026-03-13",
+      "price": 232000,
+      "type": "Terraced",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Warrior Square",
+      "outwardCode": "BN22"
+    },
+    {
+      "date": "2026-03-13",
+      "price": 222500,
+      "type": "Terraced",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Dudley Road",
+      "outwardCode": "BN22"
+    },
+    {
+      "date": "2026-03-13",
+      "price": 180000,
+      "type": "Flat",
+      "tenure": "Leasehold",
+      "newBuild": false,
+      "street": "Groombridge Avenue",
+      "outwardCode": "BN22"
+    },
+    {
+      "date": "2026-03-13",
+      "price": 345000,
+      "type": "Semi-Detached",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Grampian Close",
+      "outwardCode": "BN23"
+    },
+    {
+      "date": "2026-03-13",
+      "price": 342000,
+      "type": "Terraced",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Willingdon Road",
+      "outwardCode": "BN21"
+    },
+    {
+      "date": "2026-03-12",
+      "price": 132000,
+      "type": "Flat",
+      "tenure": "Leasehold",
+      "newBuild": false,
+      "street": "Seaside Road",
+      "outwardCode": "BN21"
+    },
+    {
+      "date": "2026-03-12",
+      "price": 325000,
+      "type": "Terraced",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Longstone Road",
+      "outwardCode": "BN21"
+    },
+    {
+      "date": "2026-03-11",
+      "price": 420000,
+      "type": "Terraced",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Pierpoint Mews",
+      "outwardCode": "BN23"
+    },
+    {
+      "date": "2026-03-11",
+      "price": 283500,
+      "type": "Semi-Detached",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Tamarack Close",
+      "outwardCode": "BN22"
+    },
+    {
+      "date": "2026-03-10",
+      "price": 440000,
+      "type": "Flat",
+      "tenure": "Leasehold",
+      "newBuild": false,
+      "street": "Blackwater Road",
+      "outwardCode": "BN21"
+    },
+    {
+      "date": "2026-03-10",
+      "price": 253000,
+      "type": "Flat",
+      "tenure": "Leasehold",
+      "newBuild": false,
+      "street": "Cliff Road",
+      "outwardCode": "BN20"
+    },
+    {
+      "date": "2026-03-10",
+      "price": 418000,
+      "type": "Detached",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Rise Park Gardens",
+      "outwardCode": "BN23"
+    },
+    {
+      "date": "2026-03-10",
+      "price": 487000,
+      "type": "Detached",
+      "tenure": "Freehold",
+      "newBuild": false,
+      "street": "Hazelwood Avenue",
+      "outwardCode": "BN22"
+    },
+    {
+      "date": "2026-03-09",
+      "price": 198000,
+      "type": "Flat",
+      "tenure": "Leasehold",
+      "newBuild": false,
+      "street": "Macquarie Quay",
+      "outwardCode": "BN23"
+    },
+    {
+      "date": "2026-03-09",
+      "price": 300000,
+      "type": "Flat",
+      "tenure": "Leasehold",
+      "newBuild": false,
+      "street": "Cliff Road",
+      "outwardCode": "BN20"
+    },
+    {
+      "date": "2026-03-09",
+      "price": 196500,
+      "type": "Flat",
+      "tenure": "Leasehold",
+      "newBuild": false,
+      "street": "Silverdale Road",
+      "outwardCode": "BN20"
+    }
+  ]
+}
